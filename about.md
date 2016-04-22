@@ -4,18 +4,30 @@ title: About
 ---
 
 ### Who
-This is Mohammad Nasirifar. I am a computer science student and I work as a backend developer.
+Mohammad Nasirifar
+<br>
+Computer science student
+<br>
+Backend developer
+<br>
 
 ### What
-I really like [xkcd](http://xkcd.com), [9gag](http://9gag.com), programming, math and hiking. 
-Talking about less generic stuff, I like micro-services, machine learning, and theory of computation.
-I don't like facebook.com and I spend some time browsing [github](https://github.com/colonelmo) as a daily basis.
+[xkcd](http://xkcd.com), [9gag](http://9gag.com), [programming](http://lmgtfy.com/?q=programming), [problem solving](https://xkcd.com/356) and [hiking](http://hiking.motifake.com/image/demotivational-poster/1105/hiking-funny-hiking-extreme-scary-death-demotivational-posters-1304865564.jpg)
+<br>
+Micro-services, machine learning, and theory of computation
+<br>
+<a class="github-button" href="https://github.com/colonelmo" data-style="mega" aria-label="Follow @colonelmo on GitHub">Follow @colonelmo</a>
+<script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
 
 ### Why
-The main reason that I write this blog is that I don't like to forget about the things I learn, and I have found out that typing (as opposed to actually writing stuff down) would save me some time, and blog posts (as opposed to papers) are more accessible to me (and anyone else).
+Don't like to forget things I learn
+<br>
+plus
+<br>
+Keyboard + vim > pen + paper
 
 ### Where
-I live in Tehran, Iran.
+Tehran, Iran
 
 ### When
-This is probably the most uselss thing that I have ever typed but it's 14:46.
+It's <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%H:%M' }}</time> here
