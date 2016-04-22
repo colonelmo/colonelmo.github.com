@@ -3,8 +3,6 @@ layout: post
 title: Hello, World
 ---
 
-Threat number one: The programmer with a screwdriver
-
 -----
 
 Hey there! This is EX-PEEK: EXploring programming/math topics, linux utilities etc., each in (about) a weEK.
