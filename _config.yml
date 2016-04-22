@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
+title:               expeek
 tagline:             expeek
-url:                 http://getpoole.com
+url:                 http://colonelmo.github.io
 paginate:            1
 baseurl:             ""
 
@@ -36,4 +36,3 @@ gems:
 pages_list:       
   About: '/about'
   Archive: '/archive'
-  Feed: '/atom.xml'

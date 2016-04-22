@@ -3,28 +3,19 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Who
+This is Mohammad Nasirifar. I am a computer science student and I work as a backend developer.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### What
+I really like [xkcd](http://xkcd.com), [9gag](http://9gag.com), programming, math and hiking. 
+Talking about less generic stuff, I like micro-services, machine learning, and theory of computation.
+I don't like facebook.com and I spend some time browsing [github](https://github.com/trending) as a daily basis.
 
-There are currently two themes built on Poole:
+### Why
+The main reason that I write this blog is that I don't like to forget about the things I learn, and I have found out that typing (as opposed to actually writing stuff down) would save me some time, and blog posts (as opposed to papers) are more accessible to me (and anyone else).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Where
+I live in Tehran, Iran.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+### When
+This is probably the most uselss thing that I have ever typed but it's 14:46.
