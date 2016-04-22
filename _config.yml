@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Poole
-tagline:             The Jekyll Butler
+tagline:             expeek
 url:                 http://getpoole.com
 paginate:            1
 baseurl:             ""
@@ -17,16 +17,23 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Mohammad Nasirifar
+  url:               https://github.com/colonelmo
+  email:             far.nasiri.m@gmail.com
 
 # Custom vars
 version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+github:              colonelmo
+repo:              https://github.com/colonelmo/colonelmo.github.com
 
 # Gems
 gems:
   - jekyll-paginate
   - jekyll-gist
+
+
+# Pages
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
