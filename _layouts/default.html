@@ -27,7 +27,7 @@
 
       <footer class="footer">
         <small>
-          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
+          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. Mohammad Nasirifar. All rights reserved.
         </small>
       </footer>
     </div>
@@ -42,8 +42,9 @@
        ga('send', 'pageview');
      </script>
     {% endif %}
-  </body>
+
     <footer class="footer">
       {% if site.footer-links.github %}<a href="http://github.com/{{ site.footer-links.github }}">{% include svg-icons/github.html %}</a>{% endif %}
     </footer>
+  </body>
 </html>
