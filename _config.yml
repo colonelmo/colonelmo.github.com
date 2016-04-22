@@ -8,6 +8,8 @@ url:                 http://colonelmo.github.io
 paginate:            1
 baseurl:             ""
 
+timezone: Asia/Tehran
+
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
@@ -36,3 +38,4 @@ gems:
 pages_list:       
   About: '/about'
   Archive: '/archive'
+
