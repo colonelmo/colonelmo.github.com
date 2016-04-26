@@ -11,7 +11,6 @@ I guess for the first few weeks I'd be fighting with [Jekyll](http://jekyllrb.co
 
 Stay tuned!
 
------
 Update:
 I have swtiched to blog.expeek.ir! Hooray!
 
