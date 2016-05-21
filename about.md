@@ -30,4 +30,4 @@ Keyboard + vim > pen + paper
 Tehran, Iran
 
 ### When
-It's <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%H:%M' }}</time> here
+~~It's <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%H:%M' }}</time> here~~ No it's not. Will be fixed soon.
