@@ -39,6 +39,6 @@ As you probably know, docker isolates the processes using linux cgroups. Every d
 
 By default anything is priviledged in a docker container. You will execute processes with UID 0, which mean if any outbreak (from the container to the actual docker host) happens, you are _root_. Maybe it's a good idea to run your containers with a non-priviledged UID? I don't know. However the kernel will somehow do it's best to constrain the container e.g. by not letting it remove a kernel module, but even that won't be there with ```--privileged=true```. That's where ```--cap-add``` and ```--cap-drop``` enter to allow you to set particular kernel capabilities for the container that you are about to create. To deal with these security concerns in a better way, SELinux and AppArmor can be used. They can provide Mandatory Access Control to the system, which can in turn constraint the containers from say, alterint dangerous parts of the file system or getting ahold of a part of the file system by mounting it.
 
-Let's have a dive in the source code now:
+### Todo: A dive in docker source code
 
 
