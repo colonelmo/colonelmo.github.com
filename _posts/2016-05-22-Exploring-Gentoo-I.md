@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exploring Gentoo, Part I: Installation
+title: Exploring Gentoo, Part I Installation
 ---
 
 -----
@@ -23,3 +23,4 @@ I am installing grub now.
 
 Aaaaaaaaaand it's finished. I messed up the installation :-/ I'll try again soon enough.
 
+P.S. I tried again and it's finally installed now. I am really REALLY pissed about how outdated the packages are. I'll discuss that in part 2.
