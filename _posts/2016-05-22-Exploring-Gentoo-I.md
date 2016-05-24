@@ -23,4 +23,6 @@ I am installing grub now.
 
 Aaaaaaaaaand it's finished. I messed up the installation :-/ I'll try again soon enough.
 
-P.S. I tried again and it's finally installed now. I am really REALLY pissed about how outdated the packages are. I'll discuss that in part 2.
+P.S. I tried again and it's finally installed now. 
+I had to recompile the kernel to include the intel interface E1000E module. 
+I am really __REALLY__ pissed about how outdated the packages are. I'll discuss that in the next part.
